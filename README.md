@@ -11,6 +11,7 @@ A game where you dodge rocks and torches falling from the sky.
 - Use the arrow keys or WASD to move
 - Don't get hit by the falling rocks or torches
 - As the game goes on, it will get harder and faster
+- Press escape at any time to quit
 - Try and get new PBs and good luck!
 
 # Credits
