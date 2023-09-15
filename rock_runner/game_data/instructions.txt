@@ -1,0 +1,6 @@
+Instructions:
+Use the left and right arrow keys or WASD to move.
+Don't let any rocks or torches hit you.
+As you continue, the game gets faster and harder.
+Press ESCAPE at any time to quit.
+Get the highest score possible, and enjoy!
