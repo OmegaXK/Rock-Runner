@@ -2,9 +2,9 @@
 A game where you dodge rocks and torches falling from the sky.
 
 # How to Download
-- Download all files and folders in the main folder "rock_runner"
-- Put all the files and folders in the same folder
-- Run the file "runner.py"
+1. Download all files and folders in the main folder "rock_runner"
+2. Put all the files and folders in the same folder
+3. Run the file "runner.py"
 
 # How to Play
 - Select your song offset by pressing "1", "2", or "3"
